@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="com.parse.starter.UserList">
+    <item android:id="@+id/dms" android:title="DM" app:showAsAction="always" />
+    <item android:id="@+id/share" android:title="Share" app:showAsAction="always" />
+    <item android:id="@+id/logout" android:title="Logout" app:showAsAction="always" />
+
+</menu>
