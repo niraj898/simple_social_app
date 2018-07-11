@@ -1,2 +1,2 @@
 # simple_social_app
-android
+android social networking app
